@@ -1,8 +1,5 @@
-a {
-    text-decoration: none;
-}
-
 .header-menu {
+    text-decoration: none;
     color: cornflowerblue;
     font-size: 16px;
     line-height: 20px;
@@ -40,7 +37,7 @@ a {
     font-weight: bold;
 }
 
-a:hover {
+.header-menu:hover {
     font-size: 20px;
     color: #454de5;
     transition: 0.6s;
